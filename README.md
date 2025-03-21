@@ -29,7 +29,7 @@ To run this project locally, follow the steps below:
     Note: The node_modules folder has been added to .gitignore to keep the repository lightweight.
     It will be regenerated automatically when you run npm install.
 4. Start the development server:
-    npm start
+    npm start.
    This will open the project in your browser at http://localhost:3000.
 
 
